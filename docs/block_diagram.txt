@@ -1,0 +1,1 @@
+Input -> Feature Extraction -> Memory Match -> Candidate Generator -> Validator -> Registry -> Reporter -> Disk Storage

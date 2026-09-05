@@ -1,0 +1,6 @@
+data_dir: output/meta_evolution_data
+log_dir: output/meta_evolution_logs
+interval_min: 0.5
+interval_max: 1.0
+report_every_seconds: 1800
+acceptance_threshold: 0.7

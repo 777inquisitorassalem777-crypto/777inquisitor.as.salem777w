@@ -1,0 +1,4 @@
+Fig.1 - Overall system architecture.
+Fig.2 - Input processing cycle.
+Fig.3 - Ontology structure.
+Fig.4 - Disk-backed memory storage schema.

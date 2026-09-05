@@ -1,0 +1,7 @@
+Technical field: AI systems, semantic memory, evolutionary repositories, reporting, and ontological modeling.
+
+Technical problem: existing systems often fail to preserve evolutionary states non-destructively, lack explicit semantic filtering, and do not connect memory with ontology.
+
+Technical solution: the system ingests input, extracts features, searches memory for related states, generates candidates, validates them across multiple criteria, persists validated results, writes reports, and exposes CLI operation.
+
+Technical effect: improved knowledge continuity, traceability, reproducibility, evolutionary stability, and non-destructive extension of previously stored states.
